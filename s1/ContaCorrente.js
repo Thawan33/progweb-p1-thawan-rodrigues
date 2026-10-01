@@ -11,4 +11,9 @@ export class ContaCorrente extends Conta {
   saldoDisponivel() {
     return this.saldo + this.limite;
   }
+
+    tarifaMensal() {
+    return 12.9;
+  }
+
 }
