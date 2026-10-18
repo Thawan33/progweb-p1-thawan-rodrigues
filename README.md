@@ -6,7 +6,7 @@
 ## Sobre
 
 Aplicação fullstack (API Express em camadas + SQLite + frontend Bootstrap com Vanilla JS).
-O domínio do projeto será definido na Semana 2.
+**Domínio:** Permite aos estudantes cadastrar disciplinas, gerenciar trabalhos e provas e acompanhar seus prazos e etapas. A modelagem está em [MODELAGEM.md](MODELAGEM.md).
 
 ## Estrutura
 
